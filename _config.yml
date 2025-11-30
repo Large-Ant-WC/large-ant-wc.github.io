@@ -22,6 +22,7 @@ author: Cameron Largent
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Portfolio: 
     - Substack: https://largeantwc.substack.com/
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
